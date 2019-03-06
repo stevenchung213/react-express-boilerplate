@@ -1,7 +1,9 @@
 # react-express-boilerplate
 
 Basic boilerplate with current packages as of 3/5/2019.
+
 ** If using at a later date than the mentioned here, I recommend doing manual 'npm install (package name)' in terminal to retrieve the most current versions.  Please be aware of possible webpack configuration changes and account for them accordingly.**
+
 
 1.  Run 'npm install' in root directory.
 2.  Run 'npm run build' to compile React code into bundle.js via webpack.
