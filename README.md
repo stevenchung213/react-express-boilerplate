@@ -16,4 +16,4 @@ Please be aware of possible webpack configuration changes and account for them a
 
 * if there are problems with 'npm start' it is likely due to not having nodemon installed.
     * you can either install nodemon in the project directory or globally to resolve this issue.
-    * or you can simply go into package.json and change "start": "nodemon server/index.js" to "start": "node server.index.js" 
+    * or you can simply go into package.json and change "start": "nodemon server/index.js" to "start": "node server/index.js" 
